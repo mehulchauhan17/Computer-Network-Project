@@ -141,4 +141,5 @@ printSubnetInfo(&currentSubnet, &CIDR, &subnetBits);
 }
 free(octetArray); 
 return 0;
+//hariom
 }
